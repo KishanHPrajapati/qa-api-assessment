@@ -31,4 +31,4 @@ jobs:
         TEST_ENV: qa
         BASE_URL: ${{ secrets.BASE_URL }}
         AUTH_USERNAME: ${{ secrets.AUTH_USERNAME }}
-        AUTH_PASSWORD: ${{ secrets.AUTH_PASSWORD }}
+        AUTH_PASSWORD: ${{ secrets.AUTH_PASSWORD }} 
